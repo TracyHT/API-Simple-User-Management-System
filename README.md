@@ -93,7 +93,7 @@ GET /users?address_country=Vietnam&sort_by=username&sort_order=asc
 1. Clone the repository and open in IDE:
 
 ```sh
-git clone
+git clone https://github.com/TracyHT/API-Simple-User-Management-System.git
 ```
 
 2. Install dependencies:
